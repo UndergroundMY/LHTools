@@ -1,5 +1,5 @@
-# LH Tools
-## Installation
+## LH Tools
+### Installation
 ```
 pkg update
 pkg install figlet
@@ -10,5 +10,5 @@ cd LHTools
 sh LH.sh
 ```
 
-## Password
+### Password
 ```subs```
