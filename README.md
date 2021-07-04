@@ -1,4 +1,5 @@
 # LH Tools
+## Installation
 ```
 pkg update
 pkg install figlet
