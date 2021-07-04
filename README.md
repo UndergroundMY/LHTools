@@ -10,6 +10,4 @@ sh LH.sh
 ```
 
 ## Password
-```
-subs
-```
+```subs```
