@@ -8,3 +8,8 @@ git clone https://github.com/UndergroundMY/LHTools.git
 cd LHTools
 sh LH.sh
 ```
+
+## Password
+```
+subs
+```
